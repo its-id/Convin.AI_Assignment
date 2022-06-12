@@ -20,3 +20,9 @@ h1 {
   margin-right: 20px !important ;
   margin-bottom: 20px !important;
 }
+
+.footer {
+  position: absolute;
+  bottom: 5vh;
+  right: 43vw;
+}

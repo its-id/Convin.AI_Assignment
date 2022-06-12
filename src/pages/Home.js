@@ -39,6 +39,7 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <h1>User Data Fetcher</h1>
+      <p className={styles.footer}>Made By: Indrakant Dana</p>
       <CardComponent />
     </div>
   );
